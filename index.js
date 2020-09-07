@@ -33,4 +33,4 @@ client.on("message" , async message => {
   if(!cmd) return
 })
 
-client.login("")
+client.login("j-f8vuntllI2mLPMsJYDOsQtUpqHGR-W")
